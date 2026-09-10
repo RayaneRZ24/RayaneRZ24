@@ -10,7 +10,7 @@
 🎯 **Looking for a 6-month PFE Internship in France — 2027**
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ahmed-rayane-ramzi-8a7906332/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-rayane-ramzi-8a7906332/)
 [![GitHub](https://img.shields.io/badge/GitHub-RayaneRZ24-181717?style=flat&logo=github&logoColor=white)](https://github.com/RayaneRZ24)
 
 </div>
